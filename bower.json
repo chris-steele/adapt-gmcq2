@@ -12,7 +12,7 @@
         "adapt-component"
     ],
     "dependencies": {
-        "adapt-contrib-mcq": "^2.0.6"
+        "adapt-contrib-mcq": "2.0.6"
     },
     "license": "GPLv3"
 }
