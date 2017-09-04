@@ -1,0 +1,18 @@
+{
+    "name": "adapt-gmcq2",
+    "repository": "git://github.com/chris-steele/adapt-gmcq2.git",
+    "framework": ">=2.0.11",
+    "version": "2.9.9",
+    "displayName": "Graphical Multiple Choice Question... 2!",
+    "component": "gmcq",
+    "description": "A multiple choice question component, with images... 2!",
+    "main": "/js/adapt-contrib-gmcq.js",
+    "keywords": [
+        "adapt-plugin",
+        "adapt-component"
+    ],
+    "dependencies": {
+        "adapt-contrib-mcq": "^2.0.6"
+    },
+    "license": "GPLv3"
+}
